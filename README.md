@@ -12,7 +12,8 @@
 
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83041703/230024661-73d86db0-540a-4912-bff3-b9fea918f6d5.png">
+<img align="right" alt="coding" width="400" src="![image]https://user-images.githubusercontent.com/83041703/230029446-19b7cfd9-ecae-4ce7-b9af-cfdf58e4edcf.png
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard-1257&label=Profile%20views&color=0e75b6&style=flat" alt="richard-1257" /> </p>
 
@@ -20,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/@richards_ify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@richards_ify" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ifeanyi richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifeanyi richard" height="30" width="40" /></a>
+<a href="https://hashnode.com/@richardtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@richardtl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
