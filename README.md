@@ -12,8 +12,7 @@
 
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<img align="right" alt="coding" width="400" src="![image]https://user-images.githubusercontent.com/83041703/230029446-19b7cfd9-ecae-4ce7-b9af-cfdf58e4edcf.png
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard-1257&label=Profile%20views&color=0e75b6&style=flat" alt="richard-1257" /> </p>
 
