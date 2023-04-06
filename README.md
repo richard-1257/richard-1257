@@ -1,3 +1,4 @@
+![logo](https://github.com/richard-1257/richard-1257/blob/main/Github%20banner.png)
 ### Hi there 👋 I'm Richard Ifeanyi Caleb - Welcome to my Github
 
 - 🔭 I’m currently working on clone of the AirBnB web app
